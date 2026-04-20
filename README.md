@@ -13,6 +13,12 @@ This project hosts a static portfolio website using GitHub Pages.
 ## Live Website
 👉 https://a-raheman.github.io/elevate-labs-task-6-github-pages/
 
+## Website Preview
+
+The static website was successfully deployed using GitHub Pages.
+
+![Website Preview](./screenshots/website.png)
+
 ## Features
 - DevOps portfolio landing page
 - links to all previous tasks
